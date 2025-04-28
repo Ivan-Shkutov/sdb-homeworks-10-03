@@ -49,6 +49,19 @@
 ![3](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/3.png)
 
 
+### После установки Elasticsearch откроем файл настроек "/etc/elasticsearch/elasticsearch.ymlэ"и изменим параметр cluster.name
+
+### После внесения изменений в файл настроек, необходимо перезапустить сервис Elasticsearch, чтобы применить изменения:
+
+sudo systemctl restart elasticsearch
+
+sudo systemctl status elasticsearch
+
+### Теперь Elasticsearch запущен с новым именем кластера. Проверяем состояние кластера с помощью следующей команды:
+
+curl -X GET 'localhost:9200/cluster/health?pretty'
+
+
 ---
 
 
