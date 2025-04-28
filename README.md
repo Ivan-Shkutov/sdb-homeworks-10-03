@@ -61,6 +61,9 @@ sudo systemctl status elasticsearch
 
 curl -X GET 'localhost:9200/cluster/health?pretty'
 
+### Также для корректрой работы и вывода информации о кластере были внесены изменения в файл "/etc/elasticsearch/elasticsearch.yml":
+
+xpack.security.enable: false
 
 ---
 
