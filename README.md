@@ -42,6 +42,17 @@
 
 ---
 
+![1](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+
+![2](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+
+![3](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+
+![4](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+
+---
+
+
 ### Задание 2. Kibana
 
 Установите и запустите Kibana.
