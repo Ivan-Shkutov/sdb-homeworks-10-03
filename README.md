@@ -80,9 +80,9 @@ xpack.security.enable: false
 
 ![6](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/6.png)
 
-![7](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/7.png)
-
 ![8](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/8.png)
+
+![7](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/7.png)
 
 ### Открываем файл "/etc/kibana/kibana.yml" для внесения изменений в конфигурацию:
 
