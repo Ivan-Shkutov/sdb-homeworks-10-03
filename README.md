@@ -42,13 +42,15 @@
 
 ---
 
-![1](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
 
-![2](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+![1](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/1.png)
 
-![3](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+![2](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/2.png)
 
-![4](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/jpg/1.jpg)
+![3](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/3.png)
+
+![4](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/4.png)
+
 
 ---
 
