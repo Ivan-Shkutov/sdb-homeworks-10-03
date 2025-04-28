@@ -76,6 +76,45 @@ xpack.security.enable: false
 
 ---
 
+![5](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/5.png)
+
+![6](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/6.png)
+
+![7](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/7.png)
+
+![8](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/8.png)
+
+### Открываем файл "/etc/kibana/kibana.yml" для внесения изменений в конфигурацию:
+
+sudo nano /etc/kibana/kibana.yml
+
+   server.host: "0.0.0.0"
+
+   elasticsearch.hosts: ["http://localhost:9200"]
+
+### Проверяем статус работы Kibana:
+
+sudo systemctl start kibana
+
+sudo systemctl enable kibana
+
+sudo systemctl status kibana
+
+### Открываем браузер и переходим на страницу Kibana:
+
+http://localhost:5601
+
+### Используем Dev Tools в Kibana:
+
+http://localhost:5601/app/dev_tools#/console
+
+### Выполним запрос GET /_cluster/health?pretty в консоли Dev Tools:
+
+GET /_cluster/health?pretty
+
+
+---
+
 ### Задание 3. Logstash
 
 Установите и запустите Logstash и Nginx. С помощью Logstash отправьте access-лог Nginx в Elasticsearch. 
