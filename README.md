@@ -49,7 +49,9 @@
 ![3](https://github.com/Ivan-Shkutov/sdb-homeworks-10-03/blob/main/img/3.png)
 
 
-### После установки Elasticsearch откроем файл настроек "/etc/elasticsearch/elasticsearch.yml"и изменим параметр cluster.name
+### После установки Elasticsearch откроем файл настроек и изменим параметр cluster.name
+
+/etc/elasticsearch/elasticsearch.yml
 
 ### После внесения изменений в файл настроек, необходимо перезапустить сервис Elasticsearch, чтобы применить изменения:
 
